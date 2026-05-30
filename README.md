@@ -17,10 +17,9 @@ Visit the portfolio live at:
 
 ## 🧩 Tech Stack
 
-- **Frontend:** React, React Router, PropTypes, React Icons, Framer Motion
+- **Frontend:** HTML, CSS and JS
 - **Styling:** SCSS (with CSS fallback), Google Fonts
 - **Deployment:** GitHub Pages
-- **Other Tools:** Toastify for notifications
 
 ## 📚 Project Sections
 
