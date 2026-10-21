@@ -1,33 +1,32 @@
-# Constance Coding Camp Portfolio
+# Susie Newton | Superior Technology Solutions
 
-This is the professional developer portfolio of **Constance Coding Camp**, designed to showcase my work, skills, and development projects to potential employers, collaborators, and recruiters.
+**Founder & Principal Consultant**
 
-## ✨ Features
+Superior Technology Solutions (STS) provides business process improvement, quality assurance, and operational consulting to help organizations identify inefficiencies, address recurring challenges, strengthen service quality, and implement practical solutions.
 
-- Built with **React** for a dynamic, component-based user experience
-- Responsive and accessible design for both desktop and mobile
-- Includes live previews of select projects (currently in progress)
-- Modular architecture with reusable components and clean CSS/SCSS styling
-- Central hub for professional story, projects, and contact information
+This portfolio highlights my professional experience, consulting capabilities, and documented use cases demonstrating structured investigation, corrective action, and verification.
 
-## 🚀 Live Site
+## Consulting Focus
 
-Visit the portfolio live at:  
-👉 https://constancecodingcamp.github.io/portfolio/
+- Business Process Assessment
+- Process Improvement & Quality Assurance
+- Operational Advisory
+
+## Professional Portfolio
+
+Explore my experience, qualifications, and documented consulting Use Cases:
+
+**[Visit My Portfolio](https://susienewton.com)**
+
+---
+
+*Technology supports the process. Expertise validates the outcome.*
 
 ## 🧩 Tech Stack
 
 - **Frontend:** HTML, CSS and JS
 - **Styling:** SCSS (with CSS fallback), Google Fonts
 - **Deployment:** GitHub Pages
-
-## 📚 Project Sections
-
-- **About:** Learn the story behind Saved N Sexy Radio and my journey
-- **Portfolio:** Highlighted projects with details and demos (apps under construction)
-- **Contact Links:** Navigation to connect or explore more
-
-## 📌 Usage
 
 Clone the repo locally to view or customize:
 
@@ -37,16 +36,6 @@ cd portfolio
 npm install
 npm start
 
-💬 Notes
-Portfolio projects are actively being redeployed and updated
-
-Images and project descriptions are placeholders until backend integrations are completed
-
-Feedback and collaboration inquiries are welcome!
-
-🎯 Purpose
-This portfolio is built as a professional showcase for recruiters, hiring managers, and collaborators to
-explore my coding projects, skills, and creative journey as I transition into software QA and full-stack development.
 
 Thank you for visiting!
 ⭐️ Please consider starring the repo if you'd like to support my work!
