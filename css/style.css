@@ -854,3 +854,73 @@ section {
     position: static;
   }
 }
+
+
+/* Mobile layout safeguards for phones and in-app browsers (including LinkedIn) */
+html {
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+img, video, iframe {
+  max-width: 100%;
+}
+
+@media (max-width: 767.98px) {
+  #main, #footer {
+    width: 100%;
+    max-width: 100%;
+    margin-left: 0;
+  }
+
+  #susie {
+    min-height: 100svh;
+    height: auto;
+    padding: 80px 16px 40px;
+    background-position: center center;
+  }
+
+  #susie .susie-container {
+    min-width: 0;
+    width: 100%;
+    max-width: 100%;
+    padding: 0 12px;
+    text-align: center;
+  }
+
+  #susie p {
+    font-size: clamp(17px, 5vw, 24px);
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+  }
+
+  .section-title h2 {
+    font-size: clamp(24px, 7vw, 32px);
+    overflow-wrap: anywhere;
+  }
+
+  .experience-content,
+  .about-content,
+  .faq,
+  .faq-item,
+  .skills-content,
+  .skills-footer {
+    max-width: 100%;
+    overflow-wrap: break-word;
+  }
+
+  .cta-line, .skills-cta, .faq-cta {
+    overflow-wrap: anywhere;
+  }
+
+  .faq-cta .btn, .experience-content .btn {
+    max-width: 100%;
+    white-space: normal;
+    text-align: center;
+  }
+}
